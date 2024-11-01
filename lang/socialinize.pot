@@ -1,0 +1,199 @@
+# Copyright (C) 2017 Socialinize
+# This file is distributed under the same license as the Socialinize package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Socialinize 1.2.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/socialinize\n"
+"POT-Creation-Date: 2017-03-01 21:44:27+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/admin.php:9 includes/admin.php:30 includes/admin.php:48
+#: includes/admin.php:69
+msgid " Socialinize"
+msgstr ""
+
+#: includes/admin.php:10
+msgid " Manage Shares"
+msgstr ""
+
+#: includes/admin.php:11
+msgid " Manage Followers"
+msgstr ""
+
+#: includes/admin.php:44 includes/admin.php:64
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: includes/admin.php:86
+msgid " Socialinize Settings"
+msgstr ""
+
+#: includes/admin.php:87
+msgid " Socialinize API"
+msgstr ""
+
+#: includes/admin.php:88
+msgid " Select User Roles "
+msgstr ""
+
+#: includes/admin.php:89
+msgid " Information"
+msgstr ""
+
+#: includes/admin.php:90
+msgid " Shortcut codes"
+msgstr ""
+
+#: includes/admin.php:93
+msgid " Socialinize Shares"
+msgstr ""
+
+#: includes/admin.php:94
+msgid " Facebook "
+msgstr ""
+
+#: includes/admin.php:95
+msgid " Twitter "
+msgstr ""
+
+#: includes/admin.php:96
+msgid " Google + "
+msgstr ""
+
+#: includes/admin.php:97
+msgid " Digg "
+msgstr ""
+
+#: includes/admin.php:98
+msgid " Linkedln "
+msgstr ""
+
+#: includes/admin.php:99
+msgid " Pinterest "
+msgstr ""
+
+#: includes/admin.php:100
+msgid " Reddit "
+msgstr ""
+
+#: includes/admin.php:101
+msgid " StumbleUpon "
+msgstr ""
+
+#: includes/admin.php:102
+msgid " Tumblr "
+msgstr ""
+
+#: includes/admin.php:103
+msgid " VK "
+msgstr ""
+
+#: includes/admin.php:104
+msgid " Pocket "
+msgstr ""
+
+#: includes/admin.php:106
+msgid " Email "
+msgstr ""
+
+#: includes/admin.php:107
+msgid " Wordpress "
+msgstr ""
+
+#: includes/admin.php:108
+msgid " Select images "
+msgstr ""
+
+#: includes/admin.php:112
+msgid " Facebook Profile Name "
+msgstr ""
+
+#: includes/admin.php:113
+msgid "Facebook Show number of Followers"
+msgstr ""
+
+#: includes/admin.php:114
+msgid " Twitter Profile Name "
+msgstr ""
+
+#: includes/admin.php:115
+msgid "Twitter Show number of Followers "
+msgstr ""
+
+#: includes/admin.php:116
+msgid " Google Plus Profile Name "
+msgstr ""
+
+#: includes/admin.php:117
+msgid " Google Show number of Followers "
+msgstr ""
+
+#: includes/admin.php:118
+msgid " Pinterest Profile Name "
+msgstr ""
+
+#: includes/admin.php:174
+msgid "Facebook  Shortcode"
+msgstr ""
+
+#: includes/admin.php:175
+msgid "Twitter  Shortcode"
+msgstr ""
+
+#: includes/admin.php:176
+msgid "Google  Shortcode"
+msgstr ""
+
+#: includes/admin.php:177
+msgid "Pinterest  Shortcode "
+msgstr ""
+
+#: includes/admin.php:186
+msgid "Please follow documentation on"
+msgstr ""
+
+#: includes/admin.php:186 includes/admin.php:187
+msgid "socialinize.com"
+msgstr ""
+
+#: includes/admin.php:187
+msgid ""
+"To get the socialinize API, you are required to register. You can register "
+"at "
+msgstr ""
+
+#: includes/admin.php:400
+msgid " Shortcode "
+msgstr ""
+
+#: socialinize.php:227
+msgid ""
+"has occured during login process. If this continue please contact the "
+"website administrator"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Socialinize"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Socialinize 1.2.2)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (Socialinize 1.2.2)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "www.socialinize.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Twitter Login Socialinize. Allows users or visitors to a website to register "
+"or login with there Twitter account."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "James Costello"
+msgstr ""

@@ -1,0 +1,205 @@
+# Copyright (C) 2017 Socialinize
+# This file is distributed under the same license as the Socialinize package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Socialinize 1.2.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/socialinize\n"
+"POT-Creation-Date: 2017-03-01 21:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-03-01 22:00+0000\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.12\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+
+#: includes/admin.php:9 includes/admin.php:30 includes/admin.php:48
+#: includes/admin.php:69
+msgid " Socialinize"
+msgstr "Socialinize"
+
+#: includes/admin.php:10
+msgid " Manage Shares"
+msgstr " Gestionar Acciones"
+
+#: includes/admin.php:11
+msgid " Manage Followers"
+msgstr "Administrar a los seguidores"
+
+#: includes/admin.php:44 includes/admin.php:64
+msgid "You do not have sufficient permissions to access this page."
+msgstr " No tiene suficientes permisos para acceder a esta página."
+
+#: includes/admin.php:86
+msgid " Socialinize Settings"
+msgstr " Configuración de Socialinize"
+
+#: includes/admin.php:87
+msgid " Socialinize API"
+msgstr "API de socialización"
+
+#: includes/admin.php:88
+msgid " Select User Roles "
+msgstr " Seleccionar funciones de usuario"
+
+#: includes/admin.php:89
+msgid " Information"
+msgstr "Información"
+
+#: includes/admin.php:90
+msgid " Shortcut codes"
+msgstr " Códigos de acceso directo"
+
+#: includes/admin.php:93
+msgid " Socialinize Shares"
+msgstr " Socialinize Acciones"
+
+#: includes/admin.php:94
+msgid " Facebook "
+msgstr "Facebook"
+
+#: includes/admin.php:95
+msgid " Twitter "
+msgstr "Twitter"
+
+#: includes/admin.php:96
+msgid " Google + "
+msgstr " Google + "
+
+#: includes/admin.php:97
+msgid " Digg "
+msgstr " Digg "
+
+#: includes/admin.php:98
+msgid " Linkedln "
+msgstr " Linkedln "
+
+#: includes/admin.php:99
+msgid " Pinterest "
+msgstr " Pinterest "
+
+#: includes/admin.php:100
+msgid " Reddit "
+msgstr " Reddit "
+
+#: includes/admin.php:101
+msgid " StumbleUpon "
+msgstr " StumbleUpon "
+
+#: includes/admin.php:102
+msgid " Tumblr "
+msgstr " Tumblr "
+
+#: includes/admin.php:103
+msgid " VK "
+msgstr " VK "
+
+#: includes/admin.php:104
+msgid " Pocket "
+msgstr " Pocket "
+
+#: includes/admin.php:106
+msgid " Email "
+msgstr " Email "
+
+#: includes/admin.php:107
+msgid " Wordpress "
+msgstr " Wordpress "
+
+#: includes/admin.php:108
+msgid " Select images "
+msgstr " Seleccionar imágenes "
+
+#: includes/admin.php:112
+msgid " Facebook Profile Name "
+msgstr " Nombre del perfil de Facebook "
+
+#: includes/admin.php:113
+msgid "Facebook Show number of Followers"
+msgstr " Facebook Mostrar número de seguidores "
+
+#: includes/admin.php:114
+msgid " Twitter Profile Name "
+msgstr " Nombre del perfil de Twitter "
+
+#: includes/admin.php:115
+msgid "Twitter Show number of Followers "
+msgstr " Twitter Mostrar número de seguidores "
+
+#: includes/admin.php:116
+msgid " Google Plus Profile Name "
+msgstr " Nombre del perfil de Google Plus "
+
+#: includes/admin.php:117
+msgid " Google Show number of Followers "
+msgstr " Google Mostrar número de seguidores "
+
+#: includes/admin.php:118
+msgid " Pinterest Profile Name "
+msgstr " Nombre del perfil de Pinterest "
+
+#: includes/admin.php:174
+msgid "Facebook  Shortcode"
+msgstr " Código abreviado de Facebook "
+
+#: includes/admin.php:175
+msgid "Twitter  Shortcode"
+msgstr " Código abreviado de Twitter "
+
+#: includes/admin.php:176
+msgid "Google  Shortcode"
+msgstr " Código abreviado de Google "
+
+#: includes/admin.php:177
+msgid "Pinterest  Shortcode "
+msgstr " Código abreviado de Pinterest "
+
+#: includes/admin.php:186
+msgid "Please follow documentation on"
+msgstr " Siga la documentación sobre "
+
+#: includes/admin.php:186 includes/admin.php:187
+msgid "socialinize.com"
+msgstr "socialinize.com"
+
+#: includes/admin.php:187
+msgid ""
+"To get the socialinize API, you are required to register. You can register "
+"at "
+msgstr ""
+" Para obtener la API socialinize, debe registrarse. Puede registrarse en "
+
+#: includes/admin.php:400
+msgid " Shortcode "
+msgstr " Código corto "
+
+#: socialinize.php:227
+msgid ""
+"has occured during login process. If this continue please contact the "
+"website administrator"
+msgstr ""
+" Ha ocurrido durante el proceso de inicio de sesión. Si esto continúa, "
+"póngase en contacto con el administrador del sitio web "
+
+#. Plugin Name of the plugin/theme
+msgid "Socialinize"
+msgstr "Socialinize"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "www.socialinize.com"
+msgstr "www.socialinize.com"
+
+#. Description of the plugin/theme
+msgid ""
+"Twitter Login Socialinize. Allows users or visitors to a website to register "
+"or login with there Twitter account."
+msgstr ""
+"Twitter Entrar Socialinize. Permite a los usuarios o visitantes de un sitio "
+"web registrarse o iniciar sesión con una cuenta de Twitter."
+
+#. Author of the plugin/theme
+msgid "James Costello"
+msgstr "James Costello"
